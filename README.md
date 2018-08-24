@@ -1,6 +1,6 @@
 # vue-test
-HAHAHAHA
-> A Vue.js project
+
+> A nice little Vue.js project
 
 ## Build Setup
 
